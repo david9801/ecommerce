@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'kodiak2',
+    'database_user' => 'root',
+    'database_password' => '123456A?',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'HH2O9W4utQJF8Rtcos0cBBVd7Gjtze0J1bwz769MIdTatggt8rADmK9MLYWvz2PJ',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-03-14',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'qU4Yzy0mnvQZms5P8vnP4e9AnAiHx05bgAwIH6UC7m8coxEZTuc2xcUHvpSsaDub',
+    'cookie_iv' => 'uPEAwrP5kGxDJKYSFY3V5fTtQuKVnkGG',
+    'new_cookie_key' => 'def000000722ffac80b18c3e80da54b1770334192342a9594d7ed2fceeb019a34c812bab382066d69d5b98459278b3cf74f1f5403ec97b81382de611bab4f5d4efb64caa',
+  ),
+);
