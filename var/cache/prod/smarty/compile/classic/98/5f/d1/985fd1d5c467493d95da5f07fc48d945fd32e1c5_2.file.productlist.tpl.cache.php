@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.47, created on 2023-03-14 19:53:29
+/* Smarty version 3.1.47, created on 2023-03-14 23:17:41
   from 'C:\wamp64\www\prestashop\themes\classic\templates\catalog\_partials\productlist.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.47',
-  'unifunc' => 'content_6410c2a9425b27_48917993',
+  'unifunc' => 'content_6410f285eb5be6_75706036',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,8 +21,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 1,
   ),
 ),false)) {
-function content_6410c2a9425b27_48917993 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '17168961726410c2a941b0a8_96771153';
+function content_6410f285eb5be6_75706036 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '5601303246410f285eaba97_58490023';
 ?>
 
 <?php $_smarty_tpl->smarty->ext->_capture->open($_smarty_tpl, 'default', "productClasses", null);

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.47, created on 2023-03-14 19:53:29
+/* Smarty version 3.1.47, created on 2023-03-14 23:17:42
   from 'module:psfeaturedproductsviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.47',
-  'unifunc' => 'content_6410c2a955a429_86311877',
+  'unifunc' => 'content_6410f286086657_51655769',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -36,7 +36,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_6410c2a955a429_86311877 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6410f286086657_51655769 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section class="featured-products clearfix">
   <h2 class="h2 products-section-title text-uppercase">
     Popular Products
@@ -100,7 +100,6 @@ function content_6410c2a955a429_86311877 (Smarty_Internal_Template $_smarty_tpl)
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>
-
 
         
       </div>
@@ -171,7 +170,6 @@ function content_6410c2a955a429_86311877 (Smarty_Internal_Template $_smarty_tpl)
   <div class="comments-nb"></div>
 </div>
 
-
         
       </div>
 
@@ -240,7 +238,6 @@ function content_6410c2a955a429_86311877 (Smarty_Internal_Template $_smarty_tpl)
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>
-
 
         
       </div>
@@ -311,7 +308,6 @@ function content_6410c2a955a429_86311877 (Smarty_Internal_Template $_smarty_tpl)
   <div class="comments-nb"></div>
 </div>
 
-
         
       </div>
 
@@ -380,7 +376,6 @@ function content_6410c2a955a429_86311877 (Smarty_Internal_Template $_smarty_tpl)
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>
-
 
         
       </div>
@@ -451,7 +446,6 @@ function content_6410c2a955a429_86311877 (Smarty_Internal_Template $_smarty_tpl)
   <div class="comments-nb"></div>
 </div>
 
-
         
       </div>
 
@@ -521,7 +515,6 @@ function content_6410c2a955a429_86311877 (Smarty_Internal_Template $_smarty_tpl)
   <div class="comments-nb"></div>
 </div>
 
-
         
       </div>
 
@@ -590,7 +583,6 @@ function content_6410c2a955a429_86311877 (Smarty_Internal_Template $_smarty_tpl)
   <div class="grade-stars small-stars"></div>
   <div class="comments-nb"></div>
 </div>
-
 
         
       </div>
